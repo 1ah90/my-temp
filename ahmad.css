@@ -112,7 +112,7 @@ html{
 
 
 .logo{
-  background-image: url(/img/logo.png);
+  background-image: url(logo.png);
   background-size: cover;
   width: 60px;
   height: 30px;
@@ -151,7 +151,7 @@ html{
 
 /* Strat landing */
 .landing{
-  background-image: url(../img/115.jpg);
+  background-image: url(..115.jpg);
   background-size: cover;
   height: calc(100vh - 90px);
   margin: 0;
